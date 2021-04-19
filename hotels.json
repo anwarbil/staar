@@ -1,0 +1,171 @@
+[
+    {
+        "name": "Shalimar House",
+        "address": "Street No. 46, G-10/1",
+        "price": 2400,
+        "description": "A bookcase can even be built to your own bespoke design by specialists. You could create a surround in which to hang your TV, for when you’re done with your reading.",
+        "imageUrl": "https://cdn.home-designing.com/wp-content/uploads/2017/08/Bespoke-bookcase.jpg",
+        "rooms": [
+            {
+                "imageUrl": "http://cdn.home-designing.com/wp-content/uploads/2017/08/Bespoke-bookcase.jpg",
+                "name": "Standard Room"
+            },
+            {
+                "imageUrl": "https://cdn.home-designing.com/wp-content/uploads/2017/08/Staircase-bookcase.jpg",
+                "name": "Premium Room"
+            },
+            {
+                "imageUrl": "http://cdn.home-designing.com/wp-content/uploads/2017/08/Built-in-bookcase.jpg",
+                "name": "Deluxe Room"
+            }
+        ],
+        "reviews": [
+            {
+                "message": "Very confortable rooms!!",
+                "user": "Amir",
+                "userImage": "http://cdn.home-designing.com/wp-content/uploads/2017/08/Bespoke-bookcase.jpg",
+                "rate": 4
+            },
+            {
+                "message": "Good attention, good food, good rooms. Amazing places",
+                "user": "Marwa",
+                "userImage": "http://cdn.home-designing.com/wp-content/uploads/2017/08/Bespoke-bookcase.jpg",
+                "rate": 3
+            },
+            {
+                "message": "Best place to stay :)",
+                "user": "Hussain",
+                "userImage": "http://cdn.home-designing.com/wp-content/uploads/2017/08/Bespoke-bookcase.jpg",
+                "rate": 5
+            }
+        ],
+        "Facilities": [
+            {
+                "name": "WiFi",
+                "imageUrl": "https://cdn4.iconfinder.com/data/icons/vecico-connectivity/288/wifi_Symbol-512.png"
+            },
+            {
+                "name": "Parking",
+                "imageUrl": "https://img.icons8.com/ios/452/parking.png"
+            },
+            {
+                "name": "Laundry",
+                "imageUrl": "https://cdn.iconscout.com/icon/free/png-256/laundry-2440903-2037458.png"
+            },
+            {
+                "name": "Food",
+                "imageUrl": "https://i.pinimg.com/originals/e4/4c/57/e44c577196d295eb166d7455078f5ca9.png"
+            }
+        ]
+    },
+    {
+        "name": "Boys Hostel",
+        "price": 2300,
+        "address": "Sadiqabad, Rawalpindi",
+        "description": "These three art prints, mounted in front of the bookcase, break up the bank of books and create depth to the display. Try hanging your own collection of art prints on the outer edges of your shelving for a new look.",
+        "imageUrl": "http://cdn.home-designing.com/wp-content/uploads/2017/08/Living-room-bookcase.jpg",
+        "rooms": [
+            {
+                "imageUrl": "http://cdn.home-designing.com/wp-content/uploads/2017/08/Librarians-ladder.jpg",
+                "name": "Room abc"
+            },
+            {
+                "imageUrl": "http://cdn.home-designing.com/wp-content/uploads/2017/08/Eaves-bookcase.jpg",
+                "name": "Room def"
+            },
+            {
+                "imageUrl": "http://cdn.home-designing.com/wp-content/uploads/2017/08/Attic-library.jpg",
+                "name": "Room ghi"
+            }
+        ],
+        "reviews": [
+            {
+                "message": "Hi, really nice place!!",
+                "user": "Yousuf",
+                "userImage": "http://cdn.home-designing.com/wp-content/uploads/2017/08/Attic-library.jpg",
+                "rate": 4
+            },
+            {
+                "message": "Could be better :(",
+                "user": "Shafqat",
+                "userImage": "http://cdn.home-designing.com/wp-content/uploads/2017/08/Attic-library.jpg",
+                "rate": 3
+            },
+            {
+                "message": "Best place to stay :)",
+                "user": "Tariq",
+                "userImage": "http://cdn.home-designing.com/wp-content/uploads/2017/08/Attic-library.jpg",
+                "rate": 5
+            }
+        ],
+        "Facilities": [
+            {
+                "name": "WiFi",
+                "imageUrl": "https://cdn4.iconfinder.com/data/icons/vecico-connectivity/288/wifi_Symbol-512.png"
+            },
+            {
+                "name": "Laundry",
+                "imageUrl": "https://cdn.iconscout.com/icon/free/png-256/laundry-2440903-2037458.png"
+            },
+            {
+                "name": "Food",
+                "imageUrl": "https://i.pinimg.com/originals/e4/4c/57/e44c577196d295eb166d7455078f5ca9.png"
+            }
+        ]
+    },
+    {
+        "name": "Hostel 5",
+        "address": "Melody Market, Islamabad",
+        "price": 3400,
+        "description": "If you have a bit of solid DIY knowledge you could even install your own to fit an unused awkward space in your home.",
+        "imageUrl": "http://cdn.home-designing.com/wp-content/uploads/2017/08/Book-shelves.jpg",
+        "rooms": [
+            {
+                "imageUrl": "http://cdn.home-designing.com/wp-content/uploads/2017/08/Wooden-bookcase.jpg",
+                "name": "Room X"
+            },
+            {
+                "imageUrl": "http://cdn.home-designing.com/wp-content/uploads/2017/08/Book-storage-cabinets.jpg",
+                "name": "Room Y"
+            },
+            {
+                "imageUrl": "http://cdn.home-designing.com/wp-content/uploads/2017/08/Book-storage-cabinets.jpg",
+                "name": "Room Z"
+            }
+        ],
+        "reviews": [
+            {
+                "message": "Hi, really nice place!!",
+                "user": "Shan",
+                "userImage": "http://cdn.home-designing.com/wp-content/uploads/2017/08/Book-storage-cabinets.jpg",
+                "rate": 4
+            },
+            {
+                "message": "Could be better :(",
+                "user": "Ejaz",
+                "userImage": "http://cdn.home-designing.com/wp-content/uploads/2017/08/Book-storage-cabinets.jpg",
+                "rate": 3
+            },
+            {
+                "message": "Best place to stay :)",
+                "user": "Shaukat",
+                "userImage": "http://cdn.home-designing.com/wp-content/uploads/2017/08/Book-storage-cabinets.jpg",
+                "rate": 5
+            }
+        ],
+        "Facilities": [
+            {
+                "name": "WiFi",
+                "imageUrl": "https://cdn4.iconfinder.com/data/icons/vecico-connectivity/288/wifi_Symbol-512.png"
+            },
+            {
+                "name": "Parking",
+                "imageUrl": "https://img.icons8.com/ios/452/parking.png"
+            },
+            {
+                "name": "Laundry",
+                "imageUrl": "https://cdn.iconscout.com/icon/free/png-256/laundry-2440903-2037458.png"
+            }
+        ]
+    }
+]
